@@ -33,4 +33,4 @@ Then open `http://localhost:8000`
 `lekhap15/node-todo-app`
 
 ## 👤 Author
-Lekha — DevOps Engineer (in progress) 🔧
+Lekha P
